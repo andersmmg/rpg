@@ -1,6 +1,6 @@
 ## Online Role Playing Game based on Laravel PHP Framework
 
-###Table of Contents###
+### Table of Contents ###
 
 1. [Requirements](#requirments)
 2. [Installation](#installation)
